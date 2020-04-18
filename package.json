@@ -1,0 +1,29 @@
+{
+  "name": "quizbot",
+  "version": "1.0.0",
+  "description": "A friendly quiz bot for discord",
+  "main": "metrovisabot.js",
+  "dependencies": {
+    "bluebird": "^3.7.2",
+    "discord.js": "^12.1.1",
+    "discord": "^0.8.2",
+    "jest-fetch-mock": "^3.0.3",
+    "node-fetch": "^2.6.0",
+    "nodemon": "^2.0.3",
+    "whatwg-fetch": "^3.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roopehub/visabot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/roopehub/visabot/issues"
+  },
+  "homepage": "https://github.com/roopehub/visabot#readme"
+}
