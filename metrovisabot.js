@@ -3,7 +3,8 @@ const client = new discord.Client();
 const config = require('./config.json');
 const fetch = require('node-fetch').default;
 
-client.login(config.token);
+client.login(process.env.BOT_TOKEN)
+//client.login(config.token);
 
 //console log when bot online
 client.on('ready', () => {
