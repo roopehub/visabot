@@ -1,6 +1,6 @@
 const discord = require('discord.js');
 const client = new discord.Client();
-const config = require('./config.json');
+//const config = require('./config.json');
 const fetch = require('node-fetch').default;
 
 client.login(process.env.BOT_TOKEN)
