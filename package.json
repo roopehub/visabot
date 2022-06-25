@@ -8,7 +8,7 @@
     "discord.js": "^12.1.1",
     "discord": "^0.8.2",
     "jest-fetch-mock": "^3.0.3",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.7",
     "nodemon": "^2.0.3",
     "whatwg-fetch": "^3.0.0"
   },
